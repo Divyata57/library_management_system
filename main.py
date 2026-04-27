@@ -11,7 +11,7 @@ def main():
         print("4:issue books")
         print("5:Exit")
 
-        c=int(input("Enter Your choice"))
+        c=int(input("Enter Your choice : "))
         if c==1:
             print("Add books")
             add_book()
